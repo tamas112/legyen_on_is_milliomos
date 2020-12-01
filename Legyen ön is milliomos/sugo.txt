@@ -1,0 +1,34 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* Játékmenet:						    *
+*	A "Legyen Ön Is Milliomos" egy kívzjáték,	    *
+*	ahol különbözõ témakörökben kérdésekre kell	    *
+*	válaszolni úgy, hogy a 4 felajánlott lehetséges     *
+*	válasz közül kiválasztja a helyeset.		    *
+*							    *
+* Játék indítása:					    *
+*	Kettõ féle játékmód van:			    *
+*	- Klasszikus játék:				    *
+*		Itt rossz válasz esetén véget ér a játék.   *
+*		A játékos álltal elért pont felkerül a	    *
+*		ranglistára.				    *
+*	- Gyakorlójáték:				    *
+*		A kérdéseket lehet gyakorólni.		    *
+*		Rossz válasz esetén sincs vége a játéknak.  *
+*		Nincs pontozás!				    *
+*							    *
+* Játék pontozása:					    *
+*	Minden helyes kérdés esetén 1 pontot kap a játékos. *
+*							    *
+* Játékban lévõ segítségek (csak klasszikus módban):        *
+*	Közönség segítség:				    *
+*		A játékos látja, hogy a közönségben, melyik *
+*		választ tartják helyesnek.		    *
+*	Telefonos segítség:				    *
+*		A játékos tanácsot kap a telefonálótól,	    *
+*		hogy, melyik válasz lehet a helyes.	    *		
+*	Felezõ segítség:				    *
+*		A felajánlott válaszok közül 2 rossz választ*
+*		eltûntet a számítógép.                      *
+*							    *
+* 0. Vissza						    *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

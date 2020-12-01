@@ -1,0 +1,126 @@
+﻿  fugvenyek.c
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\fugvenyek.c(22): warning C4028: formal parameter 1 different from declaration
+  Source.c
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(54): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(54): warning C4024: 'egesze': different types for formal and actual parameter 1
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(62): warning C4013: 'ujjatek' undefined; assuming extern returning int
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(66): warning C4013: 'gyakorlas' undefined; assuming extern returning int
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(70): warning C4013: 'pontok' undefined; assuming extern returning int
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(74): warning C4013: 'sugo' undefined; assuming extern returning int
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(56): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(144): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(144): warning C4024: 'egesze': different types for formal and actual parameter 1
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(167): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(167): warning C4024: 'egesze': different types for formal and actual parameter 1
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(155): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(184): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(185): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(186): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(188): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(230): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(244): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(247): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(250): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(256): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(261): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(214): warning C4101: 'seged': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(215): warning C4101: 'i': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(214): warning C4101: 'kezdopont': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(311): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(302): warning C4101: 'i': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(354): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(345): warning C4101: 'i': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(393): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(409): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(426): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(428): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(432): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(436): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(457): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(507): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(507): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(490): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(526): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(532): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(538): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(449): warning C4101: 'rndA': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(449): warning C4101: 'rndB': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(557): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(708): warning C4013: 'nev' undefined; assuming extern returning int
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(635): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(645): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(650): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(660): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(665): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(674): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(697): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(704): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(710): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(719): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(723): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(732): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(547): warning C4101: 'seged': unreferenced local variable
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(764): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(776): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(796): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(803): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  Generating Code...
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(152): warning C4716: 'pontok': must return a value
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(174): warning C4716: 'sugo': must return a value
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(541): warning C4716: 'gyakorlas': must return a value
+c:\users\tamas\desktop\legyen ön is milliomos\legyen ön is milliomos\source.c(738): warning C4716: 'ujjatek': must return a value
+  Legyen ön is milliomos.vcxproj -> C:\Users\Tamas\Desktop\Legyen ön is milliomos\Debug\Legyen ön is milliomos.exe
